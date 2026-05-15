@@ -2,7 +2,7 @@
 
 <!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Visiting Student in the Trustworthy and General Artificial Intelligence Laboratory(JYC) at Westlake University.
 
 #### Contact
 
@@ -12,4 +12,4 @@ Email: woomatrix9[at]gmail.com
 B.E., Intelligent Medical Engineering , Shandong University, 2022—2026.
 
 #### Research Interests
-AI4Science;Brain-inspired computing;
+AI4Hearthcare;Brain-inspired computing;
