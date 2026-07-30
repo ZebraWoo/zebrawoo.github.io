@@ -10,3 +10,4 @@
 #### Published
 
 - Patent:Cell Phenotype Diagnostic System, Medium, Device and Program Product (CN 118470008 B)
+- Patent: An Autonomous Power Grid Regulation Method Based on Brain-Inspired Dynamics and Neuro-Symbolic Integration (CN26CC0077A)
