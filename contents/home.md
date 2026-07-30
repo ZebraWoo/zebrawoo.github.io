@@ -8,6 +8,8 @@ He is currently a Visiting Student in the Trustworthy and General Artificial Int
 
 Email: woomatrix9[at]gmail.com
 
+GitHub: [ZebraWoo](https://github.com/ZebraWoo)
+
 #### Education
 B.E., Intelligent Medical Engineering , Shandong University, 2022—2026.
 
